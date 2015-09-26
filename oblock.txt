@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
-! Homepage: http://oblock.ignorelist.com/oblock.txt
-! Version: 201509261542
+! Homepage: http://oblock.ignorelist.com/
+! Version: 201509262323
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
