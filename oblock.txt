@@ -133,7 +133,7 @@ tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no#@#.ad-sticky
 @@||adtech.de/dt/common/DAC$domain=tek.no|gamer.no|teknofil.no|teknojobb.no|insidetelecom.no
 @@||adtech.de/multiad^$domain=tek.no|gamer.no|teknofil.no|teknojobb.no|insidetelecom.no
 @@||track.adform.net/adfscript^$domain=tek.no|gamer.no|teknofil.no|teknojobb.no|insidetelecom.no
-! tek.no - hide more elements that don't need to be visible.
+! tek.no - hide more elements that don't need to be visible. See oblock.css for further tweaks.
 tek.no,gamer.no,teknofil.no,teknojobb.no##.access-subscription
 tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no##.annonse
 tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no##.discount-promo-message
@@ -143,16 +143,6 @@ tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no##.subscription-feed
 tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no##.subscription-feed-top
 tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no##.tek-jobs
 tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no##.top-header
-! tek.no - I also apply this via the usercss extension to hide whitespace and ad-markers. Must have height above 10px to avoid triggering anti-adblock:
-!
-! /* tek.no
-! Remember, any changes made here should also be made for other tek.no domains. */
-!
-!.surround .ad-placeholder
-!{
-!	height: 11px !important;
-!  visibility: hidden !important;
-!}
 
 ! thepiratebay.*
 ||0427d7.se^$third-party
