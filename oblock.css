@@ -1,8 +1,3 @@
-@-moz-document domain("github.com"), domain("kat.cr"), domain("rarbg.com"), domain("rarbg.to") {
-/* Makes visited links teal to distinguish them from other links. */
-a:visited { color: rgb(88, 166, 167) !important; }
-}
-
 @-moz-document domain("tek.no"), domain("gamer.no"), domain("teknofil.no") {
 /* Hides ad/whitespace without triggering anti-adblock. Height must be above 10px and visibility: hidden must be used instead of display: none */
 .surround .ad-placeholder {
