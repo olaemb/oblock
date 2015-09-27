@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
 ! Title: otek
+! Version: 201509270234
 
-! Obsolete. otek is now part of main oblock list. Please delete otek subscription.
- 
+! Obsolete. otek is now part of main oblock list. Please unsubscribe and delete otek from your adblock config if you still have it there.
