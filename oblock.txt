@@ -179,6 +179,9 @@ vgtv.no##.horseshoe-wrapper
 ! e24.no - iframes
 ||dinepenger.no/embed
 ||e24.no/betalt-innhold/
+! vgtv.no - Block video ads. Either one of these two seems to do the trick, so leave one commented out for now. Uncomment and test if video ads start appearing again.
+!||videoplaza.tv/proxy/distributor
+vp.videoplaza.tv/creatives/assets/
 ! vg.no - Commenting these out by default since they may be considered useful services, rather than ads.
 !||vgc.no/front/services.html
 !||vgc.no/pengerno/vg.html
@@ -203,11 +206,12 @@ vg.no,vgtv.no,e24.no,minmote.no#@#.ad-post
 vg.no,vgtv.no,e24.no,minmote.no#@#.ad-poster
 vg.no,vgtv.no,e24.no,minmote.no#@#.ad-primary
 vg.no,vgtv.no,e24.no,minmote.no#@#.ad-wrapper
-! vgtv.no -  Exceptions needed to play vgtv.no videos with third-party cookies blocked. Does not work for videos embedded in vg.no articles, so must allow TP-cookies to play those.
+! vgtv.no - Exceptions needed to play vgtv.no videos with third-party cookies blocked. Does not work for videos embedded in vg.no articles, so must allow TP-cookies to play those.
 ! I'm unblocking them for all domains as I don't think it will hurt and may allow videos to play without having to allow third-party cookies on some other sites.
 !@@videoplaza.tv/crossdomain.xml
 @@videoplaza.tv/proxy/*player
 !@@videoplaza.tv/resources
+
 
 ! Ad servers
 ||cdn.rikstoto.no^$third-party
