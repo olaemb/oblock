@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201509292358
+! Version: 201509300034
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -179,8 +179,9 @@ vgtv.no##.horseshoe-wrapper
 ! e24.no - iframes
 ||dinepenger.no/embed
 ||e24.no/betalt-innhold/
-! vgtv.no - Block video ads. Either one of these two seems to do the trick, so leave one commented out for now. Uncomment and test if video ads start appearing again.
-!||videoplaza.tv/proxy/distributor
+! vgtv.no - Try to possibly block some video ads. Some ads are served from damoh.vgtv.no and the video won't play if that server is blocked, so there will still be video ads.
+!||damoh.vgtv.no^
+||videoplaza.tv/proxy/distributor
 vp.videoplaza.tv/creatives/assets/
 ! vg.no - Commenting these out by default since they may be considered useful services, rather than ads.
 !||vgc.no/front/services.html
