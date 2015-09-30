@@ -26,6 +26,8 @@ dagbladet.no,kjendis.no,pressfire.no##.pluss
 dagbladet.no,kjendis.no,pressfire.no##.plussArticle
 dagbladet.no,kjendis.no,pressfire.no##.plussEmblem
 dagbladet.no,kjendis.no,pressfire.no##.plussRef
+! Exception for EasyPrivacy rule that prevents slideshows from working on dagbladet.no. Applying it globally in case valid content on other sites are affected.
+@@||optimizely.com
 
 ! demonoid.ooo
 @@||demonoid.ooo/advertiser.js
