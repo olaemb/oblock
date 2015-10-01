@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201509300034
+! Version: 201510011819
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -39,17 +39,19 @@ dailymail.co.uk###dms-txt
 dailymail.co.uk##.share-pictures-overlay
 
 ! digi.no, tu.no
+||cdn.tu.no/whitepapers/
+||storylabs.digi.no/
 digi.no,tu.no###job-rotator-wide
-digi.no,tu.no###linkedin-facebook-share-bar
 digi.no,tu.no##.ad-desc
+digi.no,tu.no##.digi-facebook
+digi.no,tu.no##.lastCommercialContributor
 digi.no,tu.no##.tuSharing
-||cdn.tu.no/whitepapers/article.html
 
 ! extratorrent.cc
 ||static.extratorrent.cc/images/other/torn2.png
 ||static.extratorrent.cc/images/green_arrow.png
 
-! eztv.ch
+! eztv.ch, eztv.it, eztv-proxy.net
 eztv.ch,eztv.it,eztv-proxy.net##.gsf
 eztv.ch,eztv.it,eztv-proxy.net##.gsfl
 eztv.ch,eztv.it,eztv-proxy.net##span[style="color: #666;"]
@@ -214,7 +216,6 @@ vg.no,vgtv.no,e24.no,minmote.no#@#.ad-wrapper
 !@@videoplaza.tv/crossdomain.xml
 @@videoplaza.tv/proxy/*player
 !@@videoplaza.tv/resources
-
 
 ! Ad servers
 ||cdn.rikstoto.no^$third-party
