@@ -27,6 +27,7 @@
 .wid-betting,
 #job-widget,
 #pluss-teaser,
-[href*="http://pluss.vg.no/"]
+/*[href*="sponset.vg.no"],*/
+[href*="pluss.vg.no"]
 { display: none !important; }
 }
