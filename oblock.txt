@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201510011819
+! Version: 201510022338
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -78,6 +78,12 @@ itavisen.no##.adsense-area
 itavisen.no##.advertisement
 itavisen.no##.widget-stillingsticker
 itavisen.no##.widget-textlinks
+
+! kampanje.com
+kampanje.com##.branded-stories
+kampanje.com##.bureau-guide-latest
+kampanje.com##.carousel
+kampanje.com##.premium-preview
 
 ! kingofsat.net - Fanboy's Annoyances blocks /rss.gif for some reason. Example: http://en.kingofsat.net/news.php
 @@/rss.gif
