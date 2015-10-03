@@ -21,12 +21,14 @@
    In fact, I don't think it's even possible. So we just apply this css post-adblock instead to achieve the same effect.
 */
 .ad,
+.bedriftstorget-wrapper,
 .df-container-skin-cm-norsktipping,
 .df-img-skin-pluss,
 .vgpluss-full,
 .wid-betting,
 #job-widget,
 #pluss-teaser,
+[href*="dinepenger.no/"],
 /*[href*="sponset.vg.no"],*/
 [href*="pluss.vg.no"]
 { display: none !important; }
