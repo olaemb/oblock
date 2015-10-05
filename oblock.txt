@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201510042300
+! Version: 201510050203
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -247,14 +247,16 @@ glory-glory.co.uk,grandoldteam.com###GritterContainer
 villatalk.com###vt_adb_announcement
 
 ! Football streaming sites
-vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###bannerInCenter
-vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###floatLayer1
-vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###hiddenBannerCanvas
-vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###over-large
-vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###over-small
+vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###bannerInCenter
+vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###floatLayer1
+vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###hiddenBannerCanvas
+vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###over-large
+vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###over-small
 firstrowne.eu,04stream.com###fanback
 firstrowne.eu,04stream.com###otclosediv
 @@||firstrowne.eu/sport/advertisement.js
+@@||cdn.vipboxsa.co/js/ads.js
+@@||castalba.tv^$elemhide
 
 ! Various (try to keep only single element per domain stuff here)
 ||are-ter.com^$third-party
