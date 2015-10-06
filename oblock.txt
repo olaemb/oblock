@@ -91,6 +91,7 @@ kampanje.com##.premium-preview
 ! liverpool.no
 ||kopshop.no/*banner.asp$third-party
 ||performgroup.com/*/install_flash.gif$third-party
+||player.performgroup.com/eplayer/$third-party
 ||yr.no/sted/Storbritannia/England/Anfield/ekstern_boks_liten$third-party
 liverpool.no###ToppBanner
 liverpool.no###RightBanner
