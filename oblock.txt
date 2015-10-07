@@ -160,6 +160,10 @@ tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no##.subscription-feed-to
 tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no##.tek-jobs
 tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no##.top-header
 
+! theguardian.com
+theguardian.com##.selection-sharing
+theguardian.com##.site-message
+
 ! thepiratebay.*
 ||0427d7.se^$third-party
 ||adbrau.com^$third-party
@@ -280,7 +284,6 @@ quartermaester.info###banner
 sportwitness.ning.com###hstp_373_interstitial
 tapiture.com###lurker-banner
 theclockend.com###hstp-bg4376-overlay
-theguardian.com##.selection-sharing
 
 ! Social media like buttons and similar crap on third-party sites
 ||apis.google.com/se/0/_/+1/$third-party
