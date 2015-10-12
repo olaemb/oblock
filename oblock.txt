@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201510050203
+! Version: 201510120507
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -250,6 +250,7 @@ glory-glory.co.uk,grandoldteam.com###GritterContainer
 ||sport-video.org.ua/images/Affilate
 ||sport-video.org.ua/images/all_ban_
 villatalk.com###vt_adb_announcement
+villatalk.com###vt_adb_boxes
 
 ! Football streaming sites
 vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###bannerInCenter
