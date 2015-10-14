@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201510140729
+! Version: 201510140812
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -10,16 +10,16 @@
 101greatgoals.com###top10-betting
 101greatgoals.com##.promo-box
 
-! aftenbladet.no
-! Note several exceptions under VG that also cover this domain.
-aftenbladet.no##.ad
-aftenbladet.no##.closed
-aftenbladet.no##.df-ad-marker
-aftenbladet.no##.df-plus
-aftenbladet.no##.df-skin-paywall-closed
+! aftenbladet.no, fvn.no
+! Note several exceptions under vg.no that also cover these domains.
+aftenbladet.no,fvn.no##.ad
+aftenbladet.no,fvn.no##.closed
+aftenbladet.no,fvn.no##.df-ad-marker
+aftenbladet.no,fvn.no##.df-plus
+aftenbladet.no,fvn.no##.df-skin-paywall-closed
 
 ! aftenposten.no
-! Note several exceptions under VG that also cover this domain.
+! Note several exceptions under vg.no that also cover this domain.
 ||godetilbud.aftenposten.no
 ||ocacache.medianorge.no/*jobcarousel
 ||ocacache.medianorge.no/oca/s/realestate.htm
@@ -222,12 +222,12 @@ vp.videoplaza.tv/creatives/assets/
 ! vg.no - This exception enables godt.no iframe. Again, it may be considered useful, also it will just produce whitespace if it's hidden.
 !vg.no,godt.no#@#.ad-enabled
 ! vg.no - Exceptions to avoid anti-adblock message.
-@@||adtech.de/multiad^$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no
-@@||adtech.de/dt/common/DAC$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no
-@@||adtechus.com/dt/common/DAC$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no
-@@||track.adform.net/adfserve^$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no
-@@||helios.vg.no/multiad^$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no
-@@||helios.finn.no/multiad^$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no
+@@||adtech.de/multiad^$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
+@@||adtech.de/dt/common/DAC$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
+@@||adtechus.com/dt/common/DAC$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
+@@||track.adform.net/adfserve^$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
+@@||helios.vg.no/multiad^$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
+@@||helios.finn.no/multiad^$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
 @@||vg.tns-cs.net
 @@||vg.no
 @@||e24.no
