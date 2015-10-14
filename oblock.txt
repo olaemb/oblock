@@ -22,6 +22,7 @@ aftenbladet.no,fvn.no##.df-skin-paywall-closed
 ! Note several exceptions under vg.no that also cover this domain.
 ||godetilbud.aftenposten.no
 ||ocacache.medianorge.no/*jobcarousel
+||ocacache.medianorge.no/oca/s/job.htm
 ||ocacache.medianorge.no/oca/s/realestate.htm
 aftenposten.no,osloby.no##.ad
 aftenposten.no,osloby.no##.df-ad-marker
