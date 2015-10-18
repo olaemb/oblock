@@ -164,7 +164,6 @@ tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no#@#.ad-sticky
 @@||adtech.de/multiad^$domain=tek.no|gamer.no|teknofil.no|teknojobb.no|insidetelecom.no
 @@||partner.googleadservices.com^$domain=tek.no|gamer.no|teknofil.no|teknojobb.no|insidetelecom.no
 @@||track.adform.net/adfscript^$domain=tek.no|gamer.no|teknofil.no|teknojobb.no|insidetelecom.no
-
 ! tek.no - hide more elements that don't need to be visible. See oblock.css for further tweaks.
 tek.no,gamer.no,teknofil.no,teknojobb.no##.access-subscription
 tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no##.annonse
