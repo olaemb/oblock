@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201510160611
+! Version: 201510181923
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -158,10 +158,13 @@ tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no#@#.ad-primary
 tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no#@#.ad-sticky
 @@||static.tek.no/3rdparty/adtech-DAC$domain=tek.no|gamer.no|teknofil.no|teknojobb.no|insidetelecom.no
 @@||static.tek.no/js/ads.js^$domain=tek.no|gamer.no|teknofil.no|teknojobb.no|insidetelecom.no
+@@||static.tek.no/thirdparty^$domain=tek.no|gamer.no|teknofil.no|teknojobb.no|insidetelecom.no
 @@||adtechus.com/dt/common/DAC$domain=tek.no|gamer.no|teknofil.no|teknojobb.no|insidetelecom.no
 @@||adtech.de/dt/common/DAC$domain=tek.no|gamer.no|teknofil.no|teknojobb.no|insidetelecom.no
 @@||adtech.de/multiad^$domain=tek.no|gamer.no|teknofil.no|teknojobb.no|insidetelecom.no
+@@||partner.googleadservices.com^$domain=tek.no|gamer.no|teknofil.no|teknojobb.no|insidetelecom.no
 @@||track.adform.net/adfscript^$domain=tek.no|gamer.no|teknofil.no|teknojobb.no|insidetelecom.no
+
 ! tek.no - hide more elements that don't need to be visible. See oblock.css for further tweaks.
 tek.no,gamer.no,teknofil.no,teknojobb.no##.access-subscription
 tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no##.annonse
