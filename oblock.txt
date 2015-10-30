@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201510211552
+! Version: 201510300512
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -54,6 +54,7 @@ dailymail.co.uk##.share-pictures-overlay
 
 ! digi.no, tu.no
 ||cdn.tu.no/whitepapers/
+||digi.no/storylabs/
 ||storylabs.digi.no/
 digi.no,tu.no###job-rotator-wide
 digi.no,tu.no##.ad-desc
