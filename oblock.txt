@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201510300512
+! Version: 201510310748
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -34,7 +34,7 @@ aftenposten.no,osloby.no##.flyout
 @@||smartadserver.com^$domain=bild.de
 
 ! dagbladet.no
-dagbladet.no,kjendis.no,pressfire.no##A[href*="/pluss/"]
+dagbladet.no,kjendis.no,pressfire.no##A[href*="/pluss"]
 dagbladet.no,kjendis.no,pressfire.no##.native-advertisement
 dagbladet.no,kjendis.no,pressfire.no##.pluss
 dagbladet.no,kjendis.no,pressfire.no##.plussArticle
