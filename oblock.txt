@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201511020034
+! Version: 201511020121
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -324,7 +324,7 @@ torrentfreak.com##.widget_text
 
 ! Social media like buttons and similar crap on third-party sites
 ||apis.google.com/se/0/_/+1/$third-party
-||facebook.com/plugins/like$third-party
+||facebook.com/*plugins/like$third-party
 ||platform.twitter.com/widgets/tweet_button$third-party
 
 ! Block all popups on the following domains:
