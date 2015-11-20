@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201511081303
+! Version: 201511202339
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -150,6 +150,10 @@ rarbg.to,rarbg.com##A[onclick*="myfastfile.com"]
 sbnation.com###social-promo
 sbnation.com##.m-share_selection_contextual
 
+! speedtest.net
+speedtest.net##.alt-promo-container
+speedtest.net##.lower-cta
+
 ! stackoverflow.com
 ||cdn-careers.sstatic.net/careers/gethired/img/companypageadfallback
 stackoverflow.com###hireme
@@ -216,7 +220,8 @@ www.vg.no###pluss-teaser
 www.vg.no##.df-img-skin-pluss
 www.vg.no##[href*="http://pluss.vg.no/"]
 www.vg.no##.vgpluss-full
-! No elemhide in Easylist for minmote.no and vgtv.no, so these should still work. 
+! No elemhide in Easylist for these domains. So hiding them here should work. 
+heltnormalt.no###topbanner
 minmote.no##.ad-box
 vgtv.no##.horseshoe-wrapper
 vgtv.no##.message-type-error
