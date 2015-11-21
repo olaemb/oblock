@@ -34,8 +34,9 @@ aftenposten.no,osloby.no##.flyout
 @@||smartadserver.com^$domain=bild.de
 
 ! cricfree.sx
-cricfree.sx,biggestplayer.me##.adblock1
-cricfree.sx,biggestplayer.me##.bern
+cricfree.sx,biggestplayer.me,theactionlive.com##.adblock1
+cricfree.sx,biggestplayer.me,theactionlive.com##.bern
+cricfree.sx,biggestplayer.me,theactionlive.com##.piji
 
 ! dagbladet.no
 dagbladet.no,kjendis.no,pressfire.no##A[href*="/pluss"]
