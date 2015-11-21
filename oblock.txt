@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201511202339
+! Version: 201511220023
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -29,6 +29,7 @@ aftenposten.no,osloby.no##.df-ad-marker
 aftenposten.no,osloby.no##.flyout
 
 ! bild.de - Exceptions to avoid triggering anti-adblock.
+@@||bild.de^
 @@||bild.de^$elemhide
 @@||sascdn.com^$domain=bild.de
 @@||smartadserver.com^$domain=bild.de
