@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201511220023
+! Version: 201512022053
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -33,11 +33,6 @@ aftenposten.no,osloby.no##.flyout
 @@||bild.de^$elemhide
 @@||sascdn.com^$domain=bild.de
 @@||smartadserver.com^$domain=bild.de
-
-! cricfree.sx
-cricfree.sx,biggestplayer.me,theactionlive.com##.adblock1
-cricfree.sx,biggestplayer.me,theactionlive.com##.bern
-cricfree.sx,biggestplayer.me,theactionlive.com##.piji
 
 ! dagbladet.no
 dagbladet.no,kjendis.no,pressfire.no##A[href*="/pluss"]
@@ -295,13 +290,20 @@ villatalk.com###vt_adb_announcement
 villatalk.com###vt_adb_boxes
 
 ! Football streaming sites
-vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###bannerInCenter
-vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###floatLayer1
-vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###hiddenBannerCanvas
-vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###over-large
-vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv###over-small
+cricfree.sx,biggestplayer.me,theactionlive.com##.adblock1
+cricfree.sx,biggestplayer.me,theactionlive.com##.bern
+cricfree.sx,biggestplayer.me,theactionlive.com##.piji
 firstrowne.eu,04stream.com###fanback
 firstrowne.eu,04stream.com###otclosediv
+lshstream.com###ads
+vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###bannerInCenter
+vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###floatLayer1
+vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###floatLayer2
+vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###hiddenBannerCanvas
+vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###over-large
+vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###over-small
+vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click##.vidcol
+||yocast.tv/ad
 @@||firstrowne.eu/sport/advertisement.js
 @@||cdn.vipboxsa.co/js/ads.js
 @@||castalba.tv^$elemhide
