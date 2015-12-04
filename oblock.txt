@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201512022053
+! Version: 201512040126
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -282,7 +282,7 @@ viasport.no#@#.text_ads
 ||xiuuh.com^$third-party
 
 ! Football forums
-glory-glory.co.uk,grandoldteam.com##.adblock_detector
+glory-glory.co.uk,grandoldteam.com,redcafe.net##.adblock_detector
 glory-glory.co.uk,grandoldteam.com###GritterContainer
 ||sport-video.org.ua/images/Affilate
 ||sport-video.org.ua/images/all_ban_
