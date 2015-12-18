@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201512182334
+! Version: 201512182338
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -91,6 +91,7 @@ www.givemesport.com###slide-promo
 
 ! itavisen.no
 itavisen.no###stillingsticker
+itavisen.no###teknojobb
 itavisen.no##.adsense-area
 itavisen.no##.advertisement
 itavisen.no##.sponsored
