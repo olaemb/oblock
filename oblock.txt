@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201601052304
+! Version: 201601052322
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -292,6 +292,7 @@ villatalk.com###vt_adb_announcement
 villatalk.com###vt_adb_boxes
 
 ! Football streaming sites
+cast4u.tv###notice
 cricfree.sx,biggestplayer.me,theactionlive.com##.adblock1
 cricfree.sx,biggestplayer.me,theactionlive.com##.bern
 cricfree.sx,biggestplayer.me,theactionlive.com##.piji
