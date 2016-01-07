@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201601052322
+! Version: 201601072037
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -244,9 +244,10 @@ vp.videoplaza.tv/creatives/assets/
 @@||track.adform.net/adfserve^$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
 @@||helios.vg.no/multiad^$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
 @@||helios.finn.no/multiad^$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
-@@||vg.tns-cs.net
-@@||vg.no
-@@||e24.no
+@@||engage-cdn.schibsted.media^
+@@||vg.tns-cs.net^
+@@||vg.no^
+@@||e24.no^
 ! These exceptions are useless for vg.no and e24.no now after EasyList annoyingly started applying an elemhide exception rule to these domains.
 vg.no,vgtv.no,e24.no,minmote.no#@#.ad-loaded
 vg.no,vgtv.no,e24.no,minmote.no#@#.ad-padding
