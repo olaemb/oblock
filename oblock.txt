@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201601212042
+! Version: 201601280822
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -342,6 +342,7 @@ quartermaester.info###banner
 sportwitness.ning.com###hstp_373_interstitial
 tapiture.com###lurker-banner
 theclockend.com###hstp-bg4376-overlay
+||thisisanfield.com/wp-content/uploads/an-temp/m0jLhu6WGlPD.js
 torrentfreak.com##.widget_text
 
 ! Social media like buttons and similar crap on third-party sites
