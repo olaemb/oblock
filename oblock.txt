@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201602041908
+! Version: 201602080057
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -367,5 +367,7 @@ torrentfreak.com##.widget_text
 @@||chess.no/$document
 ! dressmann.com - Adblock hides newsletter signup form. May want to just unblock that at some point.
 @@||dressmann.com/$document
+! telegraph.co.uk - Modal anti adblock dialog prevents site from being used if adblock is enabled.
+@@||telegraph.co.uk/$document
 ! xito.no - Unable to submit e-mail form to customer service with Adblock enabled.
 @@||xito.no/$document
