@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201602092039
+! Version: 201602092048
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -303,6 +303,7 @@ cricfree.sx,biggestplayer.me,theactionlive.com##.piji
 cricfree.sx,biggestplayer.me,theactionlive.com##.pipi
 firstrowne.eu,04stream.com###fanback
 firstrowne.eu,04stream.com###otclosediv
+freehdsport.com###ltas_overlay_Player1256537976911
 lshstream.com###ads
 vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###bannerInCenter
 vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###floatLayer1
