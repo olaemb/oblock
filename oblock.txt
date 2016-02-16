@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201602092048
+! Version: 201602161438
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -322,6 +322,7 @@ vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,x
 ! Various (try to keep only single element per domain stuff here)
 ||are-ter.com^$third-party
 @@||binbox.io^$elemhide
+@@||birminghammail.co.uk^$elemhide
 bleacherreport.com###social-promo-flyin
 dailystar.co.uk,express.co.uk##.BrightcoveExperience
 d-h.st###downloadfile2
