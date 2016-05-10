@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201605082235
+! Version: 201605100432
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -92,6 +92,10 @@ generalfil.es###search-banner-top
 www.givemesport.com##.video-container
 www.givemesport.com###editorial-syndication
 www.givemesport.com###slide-promo
+
+! google.com - and localized versions
+! Annoying privacy reminder showing up every time cookies are cleared/private browsing.
+##.col #center_col #taw
 
 ! itavisen.no
 itavisen.no###frontpage-netboard-area
