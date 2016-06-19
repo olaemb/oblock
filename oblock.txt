@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201605181031
+! Version: 201606191828
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -361,6 +361,7 @@ prisjakt.no,prisjakt.nu##.adbox
 @@||stats.qmerce.com^
 quartermaester.info###banner
 ||filmon.com/tv/channel/export?channel_id$domain=satandpcguy.com
+seher.no##.creative-container:before
 sportwitness.ning.com###hstp_373_interstitial
 tapiture.com###lurker-banner
 theanfieldwrap.com##.subfix
