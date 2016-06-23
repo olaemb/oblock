@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201606191828
+! Version: 201606232208
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -94,8 +94,8 @@ www.givemesport.com###editorial-syndication
 www.givemesport.com###slide-promo
 
 ! google.com - and localized versions
-! Annoying privacy reminder showing up every time cookies are cleared/private browsing.
-##.col #center_col #taw
+! Chrome ads
+google.com##.gb_Xc
 
 ! itavisen.no
 itavisen.no###frontpage-netboard-area
@@ -158,6 +158,7 @@ rarbg.to,rarbg.com##[href*="adpub.php"]
 rarbg.to,rarbg.com##A[href*="/musik.php?id="]
 rarbg.to,rarbg.com##A[href*="/totaldeal.php?id="]
 rarbg.to,rarbg.com##A[onclick*="myfastfile.com"]
+rarbg.to,rarbg.com##tr[style="height:50px !important;"][height="50"]
 
 ! sbnation.com
 sbnation.com###social-promo
@@ -215,6 +216,7 @@ theguardian.com##.site-message
 ! tv2.no
 tv2.no##.adContainer
 tv2.no##.ad-dz
+tv2.no##.tv2-ad
 
 ! twitter.com - Hiding the tweet field on top of the timeline that is easily confused with a search field.
 !twitter.com##.DashboardProfileCard
