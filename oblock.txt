@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201606280114
+! Version: 201606280122
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -152,7 +152,7 @@ rarbg.to,rarbg.com##[href*="adpub.php"]
 rarbg.to,rarbg.com##A[href*="/musik.php?id="]
 rarbg.to,rarbg.com##A[href*="/totaldeal.php?id="]
 rarbg.to,rarbg.com##A[onclick*="myfastfile.com"]
-rarbg.to,rarbg.com##tr[style="height:50px !important;"]
+rarbg.to,rarbg.com##tbody tr[style="height:50px !important"]
 
 ! sbnation.com
 sbnation.com###social-promo
