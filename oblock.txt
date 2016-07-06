@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201607041951
+! Version: 201607060703
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -75,11 +75,6 @@ eztv.ch,eztv.it,eztv-proxy.net##[href*="http://imads.integral-marketing.com/"]
 ||eztv.ch/js/jsc.js
 ||eztv.ch/cdn-cgi^
 ||ajax.cloudflare.com/cdn-cgi^$domain=eztv.ch|eztv.it
-
-! facebook.com
-! Hide login/register nag layer.
-facebook.com###u_0_4o
-facebook.com###u_0_4n
 
 ! generalfil.es
 generalfil.es###banner-fileinfo-middle
