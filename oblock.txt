@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201607111818
+! Version: 201607220119
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -131,6 +131,11 @@ newsnow.co.uk##.dy_cld
 newsnow.co.uk##.nndec_hl_wrap
 newsnow.co.uk##.nndec_hl_wrap_one
 newsnow.co.uk##.nnpopup
+
+! pornhub.com
+pornhub.com##.abAlertShown
+pornhub.com##ASIDE
+pornhub.com##ASIDE + span
 
 ! prisguide.no
 prisguide.no###ads-global
@@ -328,6 +333,7 @@ vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,x
 @@||fullmatchesandshows.com^$elemhide
 
 ! Various (try to keep only single element per domain stuff here)
+@@||adf.ly^$elemhide
 ||are-ter.com^$third-party
 @@||binbox.io^$elemhide
 @@||birminghammail.co.uk^$elemhide
