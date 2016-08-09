@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201607220119
+! Version: 201608091834
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -216,6 +216,10 @@ tv2.no##.tv2-ad
 twitter.com##.Footer-adsModule
 twitter.com##.is-promoted
 twitter.com##.timeline-tweet-box
+
+! younow.com
+younow.com###modalWindow
+younow.com##.modal-backdrop
 
 ! vg.no, vgtv.no, e24.no, minmote.no -  PS. Third-party cookies must be allowed to play videos embedded in articles (does not apply to pages on vgtv.no domain).
 ! These blocks are useless for www.vg.no and e24.no now after EasyList annoyingly started applying an elemhide exception rule to these domains. Use oblock.css in Stylish addon instead.
