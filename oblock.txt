@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201609262110
+! Version: 201611142122
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -117,6 +117,12 @@ liverpool.no##.topnote
 ||media.liverpool.no/media/1680/banner-tv2
 ||www.kopshop.no/kopshop-banner
 
+! liverpoolecho.co.uk
+liverpoolecho.co.uk###bottom-article-prompt
+liverpoolecho.co.uk###top-article-prompt
+liverpoolecho.co.uk##.top-slot
+liverpoolecho.co.uk##.skinny-signup
+
 ! meetv.no
 ||meetv.no/static/images/tviller_banner.png
 meetv.no###sms_banner_1
@@ -210,6 +216,7 @@ theguardian.com##.site-message
 tv2.no##.adContainer
 tv2.no##.ad-dz
 tv2.no##.tv2-ad
+tv2.no###aabl-container-t
 
 ! twitter.com - Hiding the tweet field on top of the timeline that is easily confused with a search field.
 !twitter.com##.DashboardProfileCard
