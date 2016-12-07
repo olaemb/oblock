@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201612071702
+! Version: 201612071829
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -299,6 +299,7 @@ viasport.no#@#.text-ads
 viasport.no#@#.textAd
 viasport.no#@#.text_ad
 viasport.no#@#.text_ads
+@@||viasport.no^
 
 ! Ad servers
 ||cdn.rikstoto.no^$third-party
