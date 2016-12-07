@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201611142122
+! Version: 201612071702
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -286,6 +286,8 @@ vg.no,vgtv.no,e24.no,minmote.no#@#.ad-wrapper
 !@@videoplaza.tv/crossdomain.xml
 @@videoplaza.tv/proxy/*player
 !@@videoplaza.tv/resources
+! Blocked in EasyPrivacy. Unblock to allow http://direkte.vg.no/studio/vgsporten to work.
+@@||schibsted.com/autoTracker
 
 ! viasport.no - Exceptions to avoid blurry video and anti-adblock message. Also for embedded video in some articles on dagladet.no.
 viasport.no#@#.pub_300x250
