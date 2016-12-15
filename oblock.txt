@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201612071829
+! Version: 201612160007
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -122,6 +122,7 @@ liverpoolecho.co.uk###bottom-article-prompt
 liverpoolecho.co.uk###top-article-prompt
 liverpoolecho.co.uk##.top-slot
 liverpoolecho.co.uk##.skinny-signup
+www.liverpoolecho.co.uk##IFRAME[src*="https://buy.tinypass.com/"]
 
 ! meetv.no
 ||meetv.no/static/images/tviller_banner.png
@@ -368,6 +369,7 @@ hitc.com##.aLoaded
 @@||hostyd.com^advertisement.js
 kk.no##.advertisement
 independent.co.uk##.bellyBand
+mirror.co.uk###top-article-prompt
 nifs.no##.sms_icon
 pastebin.com###abrpm
 pcmag.com##.zdcse-wrapper
