@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201612160007
+! Version: 201612160326
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -138,6 +138,7 @@ newsnow.co.uk##.dy_cld
 newsnow.co.uk##.nndec_hl_wrap
 newsnow.co.uk##.nndec_hl_wrap_one
 newsnow.co.uk##.nnpopup
+newsnow.co.uk##.promo
 
 ! pornhub.com
 pornhub.com##.abAlertShown
