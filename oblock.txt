@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201612171349
+! Version: 201701101342
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -118,6 +118,7 @@ liverpool.no##.topnote
 ||www.kopshop.no/kopshop-banner
 
 ! mirror.co.uk, liverpoolecho.co.uk
+mirror.co.uk,liverpoolecho.co.uk###bottom-article-message
 mirror.co.uk,liverpoolecho.co.uk###bottom-article-prompt
 mirror.co.uk,liverpoolecho.co.uk###top-article-prompt
 mirror.co.uk,liverpoolecho.co.uk##.top-slot
@@ -134,6 +135,7 @@ meetv.no##.sms-banner
 @@||nettavisen.no/templates/v1/resources/advertisement-1.js
 
 ! newsnow.co.uk
+newsnow.co.uk##.c-blockmsg
 newsnow.co.uk##.dy_cld
 newsnow.co.uk##.nndec_hl_wrap
 newsnow.co.uk##.nndec_hl_wrap_one
@@ -336,6 +338,7 @@ firstrowne.eu,04stream.com###otclosediv
 freehdsport.com###ltas_overlay_Player1256537976911
 lasthl.com##.vdb_player
 lshstream.com###ads
+streamhub.live###html3
 vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###bannerInCenter
 vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###floatLayer1
 vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###floatLayer2
