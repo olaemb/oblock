@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201701101342
+! Version: 201701191612
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -24,6 +24,7 @@ aftenbladet.no,fvn.no##.df-skin-paywall-closed
 ||ocacache.medianorge.no/*jobcarousel
 ||ocacache.medianorge.no/oca/s/job.htm
 ||ocacache.medianorge.no/oca/s/realestate.htm
+||ocacache-front.schibsted.tech/job.htm
 aftenposten.no,osloby.no##.ad
 aftenposten.no,osloby.no##.df-ad-marker
 aftenposten.no,osloby.no##.flyout
