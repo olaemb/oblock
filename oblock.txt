@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201702212322
+! Version: 201702281846
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -219,10 +219,10 @@ theguardian.com##.site-message
 ||thepiratebay.*/static/ads/
 
 ! tv2.no
+tv2.no##.aabl-container
 tv2.no##.adContainer
 tv2.no##.ad-dz
 tv2.no##.tv2-ad
-tv2.no###aabl-container-t
 
 ! twitter.com - Hiding the tweet field on top of the timeline that is easily confused with a search field.
 !twitter.com##.DashboardProfileCard
