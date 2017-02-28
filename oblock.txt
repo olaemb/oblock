@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201702281846
+! Version: 201702281859
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -219,7 +219,7 @@ theguardian.com##.site-message
 ||thepiratebay.*/static/ads/
 
 ! tv2.no
-tv2.no##.aabl-container
+tv2.no###content .aabl-container
 tv2.no##.adContainer
 tv2.no##.ad-dz
 tv2.no##.tv2-ad
