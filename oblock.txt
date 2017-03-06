@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201703060926
+! Version: 201703061013
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -91,6 +91,10 @@ www.givemesport.com###slide-promo
 ! google.com - and localized versions
 ! Chrome ads
 google.com##.gb_Xc
+
+! independent.co.uk
+independent.co.uk##.bellyBand
+independent.co.uk##.taboola-leaderboard
 
 ! itavisen.no
 itavisen.no###frontpage-netboard-area
@@ -376,7 +380,6 @@ godt.no##.advert-horseshoe
 hitc.com##.aLoaded
 @@||hostyd.com^advertisement.js
 kk.no##.advertisement
-independent.co.uk##.bellyBand
 nifs.no##.sms_icon
 pastebin.com###abrpm
 pcmag.com##.zdcse-wrapper
