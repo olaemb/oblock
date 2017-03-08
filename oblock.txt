@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201703061525
+! Version: 201703081033
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -301,7 +301,7 @@ vg.no,vgtv.no,e24.no,minmote.no#@#.ad-wrapper
 ! Blocked in EasyPrivacy. Unblock to allow http://direkte.vg.no/studio/vgsporten to work.
 @@||schibsted.com/autoTracker
 
-! viasport.no - Exceptions to avoid blurry video and anti-adblock message. Also for embedded video in some articles on dagladet.no.
+! viasport.no - Exceptions to avoid blurry video and anti-adblock message. Plus one block for ads and jingles. Also for embedded video in some articles on dagladet.no.
 viasport.no#@#.pub_300x250
 viasport.no#@#.pub_300x250m
 viasport.no#@#.pub_728x90
@@ -312,6 +312,9 @@ viasport.no#@#.textAd
 viasport.no#@#.text_ad
 viasport.no#@#.text_ads
 @@||viasport.no^
+@@||mssl.fwmrm.net/p/MTG_Brightcove_HTML5/AdManager.js$domain=viasport.no
+@@||5d404.v.fwmrm.net/ad^$domain=viasport.no
+||freewheel-mtgx-tv.akamaized.net^$domain=viasport.no
 
 ! Ad servers
 ||cdn.rikstoto.no^$third-party
