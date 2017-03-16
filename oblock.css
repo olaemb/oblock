@@ -1,21 +1,16 @@
 /*
 Title: oblock css
 Homepage: http://oblock.ignorelist.com/
-Version: 201605140954
+Version: 201703162250
 */
 
 @-moz-document domain("tek.no"), domain("gamer.no"), domain("teknofil.no") {
 /* Hides ad/whitespace without triggering anti-adblock. Height must be above 10px and visibility: hidden must be used instead of display: none */
-.surround .ad-placeholder {
+.surround > .top-nav + .align-center-with-wrapper
+{
 	height: 11px !important;
 	visibility: hidden !important;
 }
-}
-
-@-moz-document domain("liverpool.no") {
-/* Hides top ad/whitespace and fixes strange kopvote stylesheet for webkit browsers where radiobuttons would show as checkboxes. */
-#global #wrapper #d1 { top: 4px !important; }
-#Content #kopVote .pds-radiobutton { -webkit-appearance: radio !important; }
 }
 
 @-moz-document domain("www.vg.no"), domain("e24.no") {

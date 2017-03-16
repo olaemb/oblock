@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201703081033
+! Version: 201703162256
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -210,6 +210,7 @@ tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no##.subscription-feed-to
 tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no##.tek-jobs
 tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no##.top-header
 tek.no,gamer.no,teknofil.no,teknojobb.no,insidetelecom.no##article[data-article-type-id="59"]
+||tek.no/filer/Bannere^$domain=tek.no|gamer.no|teknofil.no|teknojobb.no|insidetelecom.no
 
 ! theguardian.com
 theguardian.com##.adblock-sticky__message
