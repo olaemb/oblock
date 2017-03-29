@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201703271627
+! Version: 201703291238
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -377,6 +377,7 @@ bleacherreport.com###social-promo-flyin
 @@||cloudfront.net^
 dailystar.co.uk,express.co.uk##.BrightcoveExperience
 d-h.st###downloadfile2
+dinside.no##.native-advertisement
 ekstrabladet.dk##div[style*="z-index: 99799;"]
 ||promo.fileforum.com^
 forums.openpli.org##div[style^="margin 0 auto;display:inline-block;width:728px; height:84px; border:1px solid #000000;"]
