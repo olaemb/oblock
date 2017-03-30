@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201703291238
+! Version: 201703302119
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -88,6 +88,10 @@ generalfil.es###search-banner-top
 www.givemesport.com##.video-container
 www.givemesport.com###editorial-syndication
 www.givemesport.com###slide-promo
+
+! godt.no
+godt.no##.advert-horseshoe
+godt.no##.meny-text-link
 
 ! google.com - and localized versions
 ! Chrome ads
@@ -383,7 +387,6 @@ ekstrabladet.dk##div[style*="z-index: 99799;"]
 forums.openpli.org##div[style^="margin 0 auto;display:inline-block;width:728px; height:84px; border:1px solid #000000;"]
 glomdalen.no,ostlendingen.no##.am-adContainer--labeled
 ||static.goal.com/di/1C2477EA1B3DEC10A927CBFF369B53C2.gif
-godt.no##.advert-horseshoe
 hitc.com##.aLoaded
 @@||hostyd.com^advertisement.js
 kk.no##.advertisement
