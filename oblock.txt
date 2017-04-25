@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201704030242
+! Version: 201704250821
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -96,6 +96,10 @@ godt.no##.meny-text-link
 ! google.com - and localized versions
 ! Chrome ads
 google.com##.gb_Xc
+
+! ibtimes.co.uk
+||g.ibtimes.co.uk/sys/js/0f272c6adfa6e3dd473e369d034a66e6.js
+ibtimes.co.uk##.anchored--newsletter
 
 ! independent.co.uk
 independent.co.uk##.bellyBand
