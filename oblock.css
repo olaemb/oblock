@@ -1,18 +1,20 @@
 /*
 Title: oblock css
 Homepage: http://oblock.ignorelist.com/
-Version: 201705030731
+Version: 201706270330
 */
 
 @-moz-document domain("tek.no"), domain("gamer.no"), domain("teknofil.no") {
 /* Hides ad/whitespace without triggering anti-adblock. Height must be above 10px and visibility: hidden must be used instead of display: none */
-.surround > .top-nav + .ad-placeholder,
-.surround > .top-nav + .align-center-with-wrapper
+.surround > .ad-placeholder,
+.surround > .align-center-with-wrapper
 {
 	height: 11px !important;
 	visibility: hidden !important;
 }
 
+#wallpaper
+{ display: none !important; }
 }
 
 @-moz-document domain("www.vg.no"), domain("e24.no") {
