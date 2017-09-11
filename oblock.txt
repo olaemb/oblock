@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201709111504
+! Version: 201709111510
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -292,7 +292,8 @@ vp.videoplaza.tv/creatives/assets/
 ! vg.no - This exception enables godt.no iframe. Again, it may be considered useful, also it will just produce whitespace if it's hidden.
 !vg.no,godt.no#@#.ad-enabled
 ! vg.no - Exceptions to avoid anti-adblock message.
-@@||adnxs.com/ast/$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
+@@||acdn.adnxs.com/ast/$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
+@@||secure.adnxs.com^$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
 @@||adtech.de/multiad^$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
 @@||adtech.de/dt/common/DAC$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
 @@||adtechus.com/dt/common/DAC$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
