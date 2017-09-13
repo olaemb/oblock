@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201709111510
+! Version: 201709131941
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -372,6 +372,8 @@ lshstream.com###ads
 ripple.is##.sweet-overlay
 ripple.is##.sweet-alert
 streamhub.live###html3
+sports2day.net##.close
+sports2day.net#@##banner_ad
 vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###bannerInCenter
 vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###floatLayer1
 vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###floatLayer2
