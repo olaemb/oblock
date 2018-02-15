@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock-new
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201712181958
+! Version: 201802151735
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -250,6 +250,10 @@ tv2.no##.adContainer
 tv2.no##.ad-dz
 tv2.no##.tv2-ad
 
+! tvkampen.com
+tvkampen.com###panorama
+tvkampen.com###before-matches
+
 ! twitter.com - Hiding the tweet field on top of the timeline that is easily confused with a search field.
 !twitter.com##.DashboardProfileCard
 twitter.com##.Footer-adsModule
@@ -391,6 +395,7 @@ vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,x
 @@||sports2day.net^$elemhide
 
 ! Various (try to keep only single element per domain stuff here)
+1881.no##.ad-sleepy
 @@||adf.ly^$elemhide
 ||are-ter.com^$third-party
 @@||binbox.io^$elemhide
