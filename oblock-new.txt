@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock-new
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201802151735
+! Version: 201803121638
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -97,6 +97,8 @@ godt.no###voucher-widget
 ! google.com - and localized versions
 ! Chrome ads
 google.com,google.co.uk,google.no,google.se,google.dk,google.de,google.nl###gb > div.gb_nd.gb_Nc.gb_g
+! drive.google.com - Hide sign up promo toast when not signed in.
+drive.google.com##.a-ee-zh-k
 
 ! ibtimes.co.uk
 ||g.ibtimes.co.uk/sys/js/0f272c6adfa6e3dd473e369d034a66e6.js
