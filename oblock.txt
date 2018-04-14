@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201803121638
+! Version: 201804141947
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -135,6 +135,8 @@ liverpool.no##.topnote
 ||media.liverpool.no/media/1682/banner-ving
 ||media.liverpool.no/media/1680/banner-tv2
 ||www.kopshop.no/kopshop-banner
+! Quiz
+@@||apester.com^
 
 ! mirror.co.uk, liverpoolecho.co.uk
 mirror.co.uk,liverpoolecho.co.uk###bottom-article-message
