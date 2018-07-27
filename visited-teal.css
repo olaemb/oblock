@@ -1,4 +1,0 @@
-@-moz-document domain("github.com"), domain("kat.cr"), domain("rarbg.com"), domain("rarbg.to"), domain("thepiratebay.org") {
-/* Makes visited links teal to distinguish them from other links. */
-a:visited { color: rgb(88, 166, 167) !important; }
-}

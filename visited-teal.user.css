@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name visited-teal.user.css
+@namespace oblock.ignorelist.com
+@homepageURL http://oblock.ignorelist.com/
+@version 201807280024
+@updateURL http://oblock.ignorelist.com/visited-teal.user.css
+@description Show visted links in teal for certain domains to make them easier to distinguish from other links.
+==/UserStyle== */
+
+@-moz-document domain("github.com"), domain("kat.cr"), domain("rarbg.com"), domain("rarbg.to"), domain("thepiratebay.org") {
+/* Makes visited links teal to distinguish them from other links. */
+a:visited { color: rgb(88, 166, 167) !important; }
+}

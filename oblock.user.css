@@ -1,8 +1,11 @@
-/*
-Title: oblock css
-Homepage: http://oblock.ignorelist.com/
-Version: 201706270330
-*/
+/* ==UserStyle==
+@name oblock.user.css
+@namespace oblock.ignorelist.com
+@homepageURL http://oblock.ignorelist.com/
+@version 201807280027
+@updateURL http://oblock.ignorelist.com/oblock.user.css
+@description Supplement to oblock.txt. Extra tweaks I couldn't do via Adblock.
+==/UserStyle== */
 
 @-moz-document domain("tek.no"), domain("gamer.no"), domain("teknofil.no") {
 /* Hides ad/whitespace without triggering anti-adblock. Height must be above 10px and visibility: hidden must be used instead of display: none */
