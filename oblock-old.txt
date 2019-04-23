@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock-old
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201904232313
+! Version: 201904240007
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -270,25 +270,22 @@ younow.com###modalWindow
 younow.com##.modal-backdrop
 
 ! vg.no, vgtv.no, e24.no, minmote.no -  PS. Third-party cookies must be allowed to play videos embedded in articles (does not apply to pages on vgtv.no domain).
-! These blocks are useless for www.vg.no and e24.no now after EasyList annoyingly started applying an elemhide exception rule to these domains. Use oblock.css in Stylish addon instead.
-vg.no##.ad
-vg.no##.df-container-skin-cm-norsktipping
-vg.no##.dablock-popup
-vg.no##.dablock-popup-overlay
-vg.no##.wid-betting
-e24.no###job-widget
-! vg.no - Using www subdomain for pluss stuff so pluss.vg.no is unaffected for subscribers.
-! These blocks are useless for www.vg.no and e24.no now after EasyList annoyingly started applying an elemhide exception rule to these domains. Use oblock.css in Stylish addon instead.
-www.vg.no###pluss-teaser
-www.vg.no##.df-img-skin-pluss
-www.vg.no##[href*="http://pluss.vg.no/"]
-www.vg.no##.vgpluss-full
-! No elemhide in Easylist for these domains. So hiding them here should work. 
+vg.no,e24.no##.ad
+vg.no,e24.no##.bedriftstorget-wrapper
+vg.no,e24.no##.df-container-skin-cm-norsktipping
+vg.no,e24.no##.df-skin-cm-yellowbg
+vg.no,e24.no##.nt-widget
+vg.no,e24.no##.wid-betting
+vg.no,e24.no###job-widget
+vg.no,e24.no##[href*="dinepenger.no/"]
 heltnormalt.no###topbanner
 minmote.no##.ad-box
 vgtv.no##.horseshoe-wrapper
 vgtv.no##.message-type-error
 vgtv.no##.vgtv-advert .top
+! vg.no - Using www subdomain for pluss stuff so pluss.vg.no is unaffected for subscribers.
+www.vg.no##.vgpluss-full
+www.vg.no###pluss-teaser
 ! e24.no - iframes
 ||dinepenger.no/embed
 ||e24.no/betalt-innhold/
@@ -299,6 +296,7 @@ vp.videoplaza.tv/creatives/assets/
 ! vg.no - Commenting these out by default since they may be considered useful services, rather than ads.
 !||vgc.no/front/services.html
 !||vgc.no/pengerno/vg.html
+
 ! vg.no - This exception enables godt.no iframe. Again, it may be considered useful, also it will just produce whitespace if it's hidden.
 !vg.no,godt.no#@#.ad-enabled
 ! vg.no - Exceptions to avoid anti-adblock message.
@@ -320,15 +318,6 @@ vp.videoplaza.tv/creatives/assets/
 @@||revcontent.com^$domain=vg.no|vgtv.no|e24.no|minmote.no|aftenposten.no|aftenbladet.no|bt.no|fvn.no
 vg.no,vgtv.no,e24.no,minmote.no#@#+js(abort-on-property-write.js, __AB__)
 vg.no,vgtv.no,e24.no,minmote.no#@#+js(abort-current-inline-script.js, Math.floor, g00)
-! These exceptions are useless for vg.no and e24.no now after EasyList annoyingly started applying an elemhide exception rule to these domains.
-vg.no,vgtv.no,e24.no,minmote.no#@#.ad-loaded
-vg.no,vgtv.no,e24.no,minmote.no#@#.ad-padding
-vg.no,vgtv.no,e24.no,minmote.no#@#.ad-placeholder
-vg.no,vgtv.no,e24.no,minmote.no#@#.ad-place-holder
-vg.no,vgtv.no,e24.no,minmote.no#@#.ad-post
-vg.no,vgtv.no,e24.no,minmote.no#@#.ad-poster
-vg.no,vgtv.no,e24.no,minmote.no#@#.ad-primary
-vg.no,vgtv.no,e24.no,minmote.no#@#.ad-wrapper
 ! vgtv.no - Exceptions needed to play vgtv.no videos with third-party cookies blocked. Does not work for videos embedded in vg.no articles, so must allow TP-cookies to play those.
 ! I'm unblocking them for all domains as I don't think it will hurt and may allow videos to play without having to allow third-party cookies on some other sites.
 !@@videoplaza.tv/crossdomain.xml
