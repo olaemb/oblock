@@ -2,7 +2,7 @@
 @name oblock.user.css
 @namespace oblock.ignorelist.com
 @homepageURL http://oblock.ignorelist.com/
-@version 1.0.0
+@version 1.0.1
 @updateURL http://oblock.ignorelist.com/oblock.user.css
 @description Supplement to oblock.txt. Extra tweaks I couldn't do via Adblock.
 ==/UserStyle== */
@@ -17,29 +17,5 @@
 }
 
 #wallpaper
-{ display: none !important; }
-}
-
-@-moz-document domain("www.vg.no"), domain("e24.no") {
-/* Hides some ads and subscription-only articles that can be safely hidden without triggering anti-adblock.
-   This can no longer be done in Adblock because of this type of annoying elemhide exception in EasyList:
-      @@||www.vg.no^$elemhide
-      @@||e24.no^$elemhide
-   This prevents all element hiding rules from working. I don't know how to create an exception for that exception in a blocklist.
-   In fact, I don't think it's even possible. So we just apply this css post-adblock instead to achieve the same effect.
-*/
-.ad,
-.bedriftstorget-wrapper,
-.df-container-skin-cm-norsktipping,
-.df-img-skin-pluss,
-.df-skin-cm-yellowbg,
-.nt-widget,
-.vgpluss-full,
-.wid-betting,
-#job-widget,
-#pluss-teaser,
-[href*="dinepenger.no/"],
-/*[href*="sponset.vg.no"],*/
-[href*="pluss.vg.no"]
 { display: none !important; }
 }
