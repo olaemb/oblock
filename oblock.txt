@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201905222158
+! Version: 201910010748
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -260,11 +260,10 @@ tvkampen.com###panorama
 tvkampen.com###before-matches
 
 ! twitter.com - Hiding the tweet field on top of the timeline that is easily confused with a search field.
+twitter.com##.r-184en5c.r-13qz1uu.r-1ye8kvj.r-61z16t.r-11wrixw.r-1jgb5lz.r-1phboty.r-13l2t4g.r-1ljd8xs.r-18bvks7.r-yfoy6g.css-1dbjc4n > .css-1dbjc4n > .r-184en5c.r-yfoy6g.css-1dbjc4n
 !twitter.com##.DashboardProfileCard
 twitter.com##.Footer-adsModule
 twitter.com##.is-promoted
-twitter.com##a[aria-label="Compose new Tweet"]
-twitter.com##a[aria-label="Skriv en ny Tweet"]
 
 ! younow.com
 younow.com###modalWindow
