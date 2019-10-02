@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201910010748
+! Version: 201910022021
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -50,6 +50,7 @@ demonoid.ooo###bnr3
 ! dailymail.co.uk
 ||i.mol.im/i/furniture/160108_
 dailymail.co.uk###dms-txt
+dailymail.co.uk##.mol-ads-label
 dailymail.co.uk##.share-pictures-overlay
 dailymail.co.uk##iframe[style*="height:250px;"]
 
