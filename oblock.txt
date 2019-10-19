@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201910022021
+! Version: 201910191530
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -167,6 +167,7 @@ musicpleer.audio###supp-ad1-player
 @@||nettavisen.no/templates/v1/resources/advertisement-1.js
 
 ! newsnow.co.uk
+newsnow.co.uk###ptop
 newsnow.co.uk##.c-blockmsg
 newsnow.co.uk##.dy_cld
 newsnow.co.uk##.nndec_hl_wrap
