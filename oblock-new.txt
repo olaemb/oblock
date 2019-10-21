@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock-new
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201904240006
+! Version: 201910212034
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -50,6 +50,7 @@ demonoid.ooo###bnr3
 ! dailymail.co.uk
 ||i.mol.im/i/furniture/160108_
 dailymail.co.uk###dms-txt
+dailymail.co.uk##.mol-ads-label
 dailymail.co.uk##.share-pictures-overlay
 dailymail.co.uk##iframe[style*="height:250px;"]
 
@@ -139,18 +140,19 @@ liverpool.no##.topnote
 ! Quiz
 @@||apester.com^
 
-! mirror.co.uk, liverpoolecho.co.uk
-mirror.co.uk,liverpoolecho.co.uk###bottom-article-message
-mirror.co.uk,liverpoolecho.co.uk###bottom-article-prompt
-mirror.co.uk,liverpoolecho.co.uk###premium-article-prompt
-mirror.co.uk,liverpoolecho.co.uk###top-article-prompt
-mirror.co.uk,liverpoolecho.co.uk##.top-slot
-mirror.co.uk,liverpoolecho.co.uk##.skinny-signup
-mirror.co.uk,liverpoolecho.co.uk##IFRAME[src*="https://buy.tinypass.com/"]
-mirror.co.uk,liverpoolecho.co.uk##.comment-prompt
+! mirror.co.uk, liverpoolecho.co.uk, liverpool.com
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com###bottom-article-message
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com###bottom-article-prompt
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com###premium-article-prompt
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com###top-article-prompt
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com##.closed.lfc-signup-container
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com##.top-slot
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com##.skinny-signup
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com##IFRAME[src*="https://buy.tinypass.com/"]
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com##.comment-prompt
 ! Block and hide annoying autoplay videos
-||brightcove.com^$domain=liverpoolecho.co.uk|mirror.co.uk
-mirror.co.uk,liverpoolecho.co.uk##.mod-video
+||brightcove.com^$domain=liverpoolecho.co.uk|mirror.co.uk|liverpool.com
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com##.mod-video
 
 ! meetv.no
 ||meetv.no/static/images/tviller_banner.png
@@ -166,6 +168,7 @@ musicpleer.audio###supp-ad1-player
 @@||nettavisen.no/templates/v1/resources/advertisement-1.js
 
 ! newsnow.co.uk
+newsnow.co.uk###ptop
 newsnow.co.uk##.c-blockmsg
 newsnow.co.uk##.dy_cld
 newsnow.co.uk##.nndec_hl_wrap
@@ -260,10 +263,10 @@ tvkampen.com###panorama
 tvkampen.com###before-matches
 
 ! twitter.com - Hiding the tweet field on top of the timeline that is easily confused with a search field.
+twitter.com##.r-184en5c.r-13qz1uu.r-1ye8kvj.r-61z16t.r-11wrixw.r-1jgb5lz.r-1phboty.r-13l2t4g.r-1ljd8xs.r-18bvks7.r-yfoy6g.css-1dbjc4n > .css-1dbjc4n > .r-184en5c.r-yfoy6g.css-1dbjc4n
 !twitter.com##.DashboardProfileCard
 twitter.com##.Footer-adsModule
 twitter.com##.is-promoted
-twitter.com##a[aria-label="Compose new Tweet"]
 
 ! younow.com
 younow.com###modalWindow
