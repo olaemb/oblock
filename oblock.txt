@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201910191532
+! Version: 201910212034
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -140,19 +140,19 @@ liverpool.no##.topnote
 ! Quiz
 @@||apester.com^
 
-! mirror.co.uk, liverpoolecho.co.uk
-mirror.co.uk,liverpoolecho.co.uk###bottom-article-message
-mirror.co.uk,liverpoolecho.co.uk###bottom-article-prompt
-mirror.co.uk,liverpoolecho.co.uk###premium-article-prompt
-mirror.co.uk,liverpoolecho.co.uk###top-article-prompt
-mirror.co.uk,liverpoolecho.co.uk##.closed.lfc-signup-container
-mirror.co.uk,liverpoolecho.co.uk##.top-slot
-mirror.co.uk,liverpoolecho.co.uk##.skinny-signup
-mirror.co.uk,liverpoolecho.co.uk##IFRAME[src*="https://buy.tinypass.com/"]
-mirror.co.uk,liverpoolecho.co.uk##.comment-prompt
+! mirror.co.uk, liverpoolecho.co.uk, liverpool.com
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com###bottom-article-message
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com###bottom-article-prompt
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com###premium-article-prompt
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com###top-article-prompt
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com##.closed.lfc-signup-container
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com##.top-slot
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com##.skinny-signup
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com##IFRAME[src*="https://buy.tinypass.com/"]
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com##.comment-prompt
 ! Block and hide annoying autoplay videos
-||brightcove.com^$domain=liverpoolecho.co.uk|mirror.co.uk
-mirror.co.uk,liverpoolecho.co.uk##.mod-video
+||brightcove.com^$domain=liverpoolecho.co.uk|mirror.co.uk|liverpool.com
+mirror.co.uk,liverpoolecho.co.uk,liverpool.com##.mod-video
 
 ! meetv.no
 ||meetv.no/static/images/tviller_banner.png
