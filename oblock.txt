@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 201910212034
+! Version: 201911040318
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -459,5 +459,5 @@ torrentfreak.com##.widget_text
 @@||dressmann.com/$document
 ! forbes.com - Whitelist due to anti adblock.
 @@||forbes.com/$document
- ! xito.no - Unable to submit e-mail form to customer service with Adblock enabled.
-@@||xito.no/$document
+! ice.no - Whitelist due blank options in mbb order form.
+@@||ice.no/$document
