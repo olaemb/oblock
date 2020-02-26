@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 202002262129
+! Version: 202002262134
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -129,9 +129,10 @@ kampanje.com##.premium-preview
 ! kingofsat.net - Fanboy's Annoyances blocks /rss.gif for some reason. Example: http://en.kingofsat.net/news.php
 @@/rss.gif
 
-! liverpool.no
+! liverpool.no - most are for the old design and may be obsolete.
 liverpool.no###loginNote
 liverpool.no##.mobile-banner
+liverpool.no##.ownAd
 liverpool.no##.remove-adblock-msg
 liverpool.no##.topnote
 ||media.liverpool.no/media/1682/banner-ving
