@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: http://oblock.ignorelist.com/
-! Version: 202002111652
+! Version: 202002262129
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -301,6 +301,10 @@ vp.videoplaza.tv/creatives/assets/
 ! vg.no - Commenting these out by default since they may be considered useful services, rather than ads.
 !||vgc.no/front/services.html
 !||vgc.no/pengerno/vg.html
+! Try to block horseshoe ad 2020-02. NEXT LINE IS RISKY.
+www.vg.no##.reg-grid-container > div:nth-of-type(1)
+||vgc.no/vgpluss/campaigns/wp.png
+||vgc.no/vgpluss/campaigns/580x400.png
 
 ! vg.no - This exception enables godt.no iframe. Again, it may be considered useful, also it will just produce whitespace if it's hidden.
 !vg.no,godt.no#@#.ad-enabled
