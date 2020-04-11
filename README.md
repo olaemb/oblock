@@ -1,4 +1,4 @@
 # oblock
-http://oblock.ignorelist.com/
+https://oblock.ignorelist.com/
 
-http://olaemb.github.io/oblock/
+https://olaemb.github.io/oblock/

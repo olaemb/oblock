@@ -1,2 +1,2 @@
 [Adblock Plus 2.0]
-! Redirect: http://oblock.ignorelist.com/oblock.txt
+! Redirect: https://oblock.ignorelist.com/oblock.txt
