@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202005051508
+! Version: 202006171525
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -460,8 +460,8 @@ torrentfreak.com##.widget_text
 @@||canon.no/$document
 ! cdon.no - Some block prevented me from confirming purchase. Suspect it was due to a cloudfront hosted script blocked by EasyPrivacy, but might as well whitelist the domain.
 @@||cdon.no/$document
-! chess.no - Unable to choose SIM card type during signup with Adblock enabled. PS. Design may be changed now so not sure this exception is needed anymore.
-@@||chess.no/$document
+! crypto.com - Whitelist due to potential site issues.
+@@||crypto.com/$document
 ! dressmann.com - Adblock hides newsletter signup form. May want to just unblock that at some point.
 @@||dressmann.com/$document
 ! forbes.com - Whitelist due to anti adblock.
