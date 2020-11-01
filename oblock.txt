@@ -263,8 +263,6 @@ tv2.no##.tv2-ad
 tvkampen.com###panorama
 tvkampen.com###before-matches
 
-! twitter.com - Hiding the tweet field on top of the timeline that is easily confused with a search field.
-twitter.com##.r-atwnbb.r-yfoy6g.css-1dbjc4n
 !twitter.com##.DashboardProfileCard
 twitter.com##.Footer-adsModule
 twitter.com##.is-promoted
