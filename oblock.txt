@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202006171525
+! Version: 202102151620
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -185,6 +185,12 @@ pornhub.com##ASIDE + span
 ! prisguide.no
 prisguide.no###ads-global
 prisguide.no##.pg-ad-label
+
+! prisjakt.no
+prisjakt.no,prisjakt.nu##.adbox
+! Need the next line to be able to follow product links to webshops 
+@@||ad.doubleclick.net/ddm/clk/
+
 
 ! rarbg.to
 ||dyncdn.me/static/20/img/16x16/download_direct.png
@@ -426,7 +432,6 @@ kk.no##.advertisement
 nifs.no##.sms_icon
 pastebin.com###abrpm
 pcmag.com##.zdcse-wrapper
-prisjakt.no,prisjakt.nu##.adbox
 @@||stats.qmerce.com^
 quartermaester.info###banner
 ||filmon.com/tv/channel/export?channel_id$domain=satandpcguy.com
