@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202102151620
+! Version: 202103182200
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -39,6 +39,7 @@ aftenposten.no,osloby.no##.flyout
 ! dagbladet.no
 dagbladet.no,kjendis.no,pressfire.no##.adblock-message
 dagbladet.no,kjendis.no,pressfire.no##.native-advertisement
+dagbladet.no,kjendis.no,pressfire.no##.mobile-only.slide-in-banner
 ! Exception for EasyPrivacy rule that prevents slideshows from working on dagbladet.no. Applying it globally in case valid content on other sites are affected.
 @@||optimizely.com
 
@@ -372,6 +373,7 @@ villatalk.com###vt_adb_announcement
 villatalk.com###vt_adb_boxes
 
 ! Football streaming sites
+allsports.icu,daddylive.club,daddylive.live,easyview.eu,liveonscore.tv,sportsonline1.xyz,streamcr7.com,stream-cr7.net,streamsport.pro,wuwza.com##iframe[style*="animation-name:"]
 cast4u.tv,hdfree.tv,hdcast.info###floatLayer1
 cast4u.tv,hdfree.tv,hdcast.info###floatLayer2
 cast4u.tv,hdfree.tv,hdcast.info###notice
@@ -384,6 +386,7 @@ cricfree.sx,biggestplayer.me,theactionlive.com##.pipi
 firstrowne.eu,04stream.com###fanback
 firstrowne.eu,04stream.com###otclosediv
 freehdsport.com###ltas_overlay_Player1256537976911
+ladsnbastands.com,nflscoop.net##.avp-p-gui
 lasthl.com##.vdb_player
 lshstream.com###ads
 ripple.is##.sweet-overlay
@@ -396,8 +399,17 @@ vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,x
 vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###over-large
 vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###over-small
 vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click##.vidcol
+||best-dates-here.com^
 ||cast4u.tv/ad
+||clk.dspsolutions.net^
+||embed.footylight.com/widget^
 ||hdfree.tv/live/ad
+||podhopfit.site^
+||rehearsaltoxicmishandle.com^$domain=givemeredditstreams.com|givemenbastreams.com
+||saumooly.net/98^
+||streamcr7.com/embed/footyshoes.gif
+||stream-cr7.net/embed/footyshoes.gif
+||thebestgame2020.com^
 ||yocast.tv/ad
 @@||castalba.tv^$elemhide
 @@||cdn.phoenix.intergi.com^
@@ -432,6 +444,7 @@ kk.no##.advertisement
 nifs.no##.sms_icon
 pastebin.com###abrpm
 pcmag.com##.zdcse-wrapper
+||www.premierinjuries.com/img/promo/$image
 @@||stats.qmerce.com^
 quartermaester.info###banner
 ||filmon.com/tv/channel/export?channel_id$domain=satandpcguy.com
