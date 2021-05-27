@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202105262106
+! Version: 202105271835
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -192,6 +192,7 @@ prisjakt.no,prisjakt.nu##.adbox
 ! These exceptions are needed to be able to follow product links to webshops 
 @@||ad.doubleclick.net/ddm/clk/
 @@||clk.tradedoubler.com/click
+@@||redir.tradedoubler.com/
 
 
 ! rarbg.to
