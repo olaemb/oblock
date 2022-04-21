@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202110060219
+! Version: 202204220039
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -450,6 +450,7 @@ pcmag.com##.zdcse-wrapper
 ||www.premierinjuries.com/img/promo/$image
 @@||stats.qmerce.com^
 quartermaester.info###banner
+nm.reddit.com###eu-cookie-policy
 ||filmon.com/tv/channel/export?channel_id$domain=satandpcguy.com
 seher.no##.creative-container:before
 @@|http://$xmlhttprequest,domain=speedtest.net
