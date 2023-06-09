@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202204220039
+! Version: 202306091955
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -166,8 +166,8 @@ meetv.no##.sms-banner
 musicpleer.audio###supp-ad1
 musicpleer.audio###supp-ad1-player
 
-! nettavisen.no - exception to avoid triggering anti-adblock message.
-@@||nettavisen.no/templates/v1/resources/advertisement-1.js
+! nettavisen.no
+nettavisen.no##article[itemtype="http://schema.org/AdvertiserContentArticle"]
 
 ! newsnow.co.uk
 newsnow.co.uk###ptop
