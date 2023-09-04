@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202309042251
+! Version: 202309042300
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -379,6 +379,8 @@ villatalk.com###vt_adb_announcement
 villatalk.com###vt_adb_boxes
 
 ! Football streaming sites
+||www.youtube.com/live_chat?v=tF82pc2ZlRI
+||www.youtube.com/live_chat?v=WgE8UmVJjoI
 allsports.icu,daddylive.club,daddylive.live,easyview.eu,liveonscore.tv,sportsonline1.xyz,streamcr7.com,stream-cr7.net,streamsport.pro,wuwza.com##iframe[style*="animation-name:"]
 cast4u.tv,hdfree.tv,hdcast.info###floatLayer1
 cast4u.tv,hdfree.tv,hdcast.info###floatLayer2
@@ -392,6 +394,7 @@ cricfree.sx,biggestplayer.me,theactionlive.com##.pipi
 firstrowne.eu,04stream.com###fanback
 firstrowne.eu,04stream.com###otclosediv
 freehdsport.com###ltas_overlay_Player1256537976911
+headlines.f1streams.pro##.elementor-location-header.elementor-10238.elementor
 ladsnbastands.com,nflscoop.net##.avp-p-gui
 lasthl.com##.vdb_player
 lshstream.com###ads
@@ -405,6 +408,7 @@ vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,x
 vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###over-large
 vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click###over-small
 vipleague.me,vipbox.biz,gutatv.biz,vabostream.ru,streams.tv,sportstvonline.net,xstream.click##.vidcol
+||apr3w.dubznetwork.com/sticky.html$subdocument
 ||best-dates-here.com^
 ||cast4u.tv/ad
 ||clk.dspsolutions.net^
