@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202309042245
+! Version: 202309042248
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -276,6 +276,9 @@ tvkampen.com###before-matches
 !twitter.com,x.com##.DashboardProfileCard
 twitter.com,x.com##.Footer-adsModule
 twitter.com,x.com##.is-promoted
+
+! twitch.tv
+twitch.tv###twilight-sticky-footer-root
 
 ! younow.com
 younow.com###modalWindow
