@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202309181152
+! Version: 202309181157
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -210,6 +210,14 @@ rarbg.to,rarbg.com##tbody td[style="height:38px"]
 ! sbnation.com
 sbnation.com###social-promo
 sbnation.com##.m-share_selection_contextual
+
+! soccerstats.com
+soccerstats.com##[href="members.asp"] > table
+soccerstats.com##[href="soccertips.asp"] > table
+soccerstats.com###hbanner
+soccerstats.com##.sidebar3
+soccerstats.com##.test-adblock-overlay
+||soccerstats.com/pubfig.js^
 
 ! speedtest.net
 speedtest.net##.alt-promo-container
