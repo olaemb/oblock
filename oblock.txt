@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202309042300
+! Version: 202309181152
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -379,6 +379,7 @@ villatalk.com###vt_adb_announcement
 villatalk.com###vt_adb_boxes
 
 ! Football streaming sites
+||www.youtube.com/live_chat?v=F0dfsaAdOmU
 ||www.youtube.com/live_chat?v=tF82pc2ZlRI
 ||www.youtube.com/live_chat?v=WgE8UmVJjoI
 allsports.icu,daddylive.club,daddylive.live,easyview.eu,liveonscore.tv,sportsonline1.xyz,streamcr7.com,stream-cr7.net,streamsport.pro,wuwza.com##iframe[style*="animation-name:"]
