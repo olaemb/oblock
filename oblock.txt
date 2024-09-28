@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202409211451
+! Version: 202409282132
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -391,6 +391,8 @@ villatalk.com###vt_adb_boxes
 ||st.chatango.com/h5/gz/r0627240714/id.html$subdocument
 ||st.chatango.com/h5/gz/r0815240726/id.html$subdocument
 ||st.chatango.com/h5/gz/r0920241117/id.html$subdocument
+||st.chatango.com/h5/gz/r0924241845/id.html$subdocument
+
 ||www.twitch.tv/embed/thestreameast_original/$subdocument
 ! Ads/cosmetic/other
 allsports.icu,daddylive.club,daddylive.live,easyview.eu,liveonscore.tv,sportsonline1.xyz,streamcr7.com,stream-cr7.net,streamsport.pro,wuwza.com##iframe[style*="animation-name:"]
