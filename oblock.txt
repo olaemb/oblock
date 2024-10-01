@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202409282132
+! Version: 202410010217
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -215,6 +215,7 @@ sbnation.com##.m-share_selection_contextual
 soccerstats.com##[href="members.asp"] > table
 soccerstats.com##[href="soccertips.asp"] > table
 soccerstats.com###hbanner
+soccerstats.com###steadyAdblockContainer
 soccerstats.com##.sidebar3
 soccerstats.com##.test-adblock-overlay
 ||soccerstats.com/pubfig.js^
