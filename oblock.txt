@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202410010237
+! Version: 202411022027
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -382,8 +382,10 @@ villatalk.com###vt_adb_boxes
 ! Football streaming sites
 ! Chats
 ||studio.youtube.com/live_chat?is_popout=1&v=FfA5xzt54iA
+||www.youtube.com/live_chat?v=1-K8pOUDDO4
 ||www.youtube.com/live_chat?v=F0dfsaAdOmU
 ||www.youtube.com/live_chat?v=K5o0Ora9_3w
+||www.youtube.com/live_chat?v=Mm5HK_UgKmY
 ||www.youtube.com/live_chat?v=t12DKx2iQ3Y
 ||www.youtube.com/live_chat?v=tF82pc2ZlRI
 ||www.youtube.com/live_chat?v=WgE8UmVJjoI
