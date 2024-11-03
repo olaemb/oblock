@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202411022027
+! Version: 202411032113
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -358,7 +358,7 @@ vg.no,vgtv.no,e24.no,minmote.no#@#+js(abort-current-inline-script.js, Math.floor
 
 ! viaplay.no - Exception: Must allow video ad to be able to play clips.
 @@||2mdn.net^$domain=viaplay.com
-
+@@||fwmrm.net^$domain=viaplay.com
 
 ! Ad servers
 ||cdn.rikstoto.no^$third-party
