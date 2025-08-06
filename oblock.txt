@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202503011857
+! Version: 202508061140
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -42,6 +42,10 @@ dagbladet.no,kjendis.no,pressfire.no##.native-advertisement
 dagbladet.no,kjendis.no,pressfire.no##.mobile-only.slide-in-banner
 ! Exception for EasyPrivacy rule that prevents slideshows from working on dagbladet.no. Applying it globally in case valid content on other sites are affected.
 @@||optimizely.com
+
+! daveockop.com
+daveockop.com##.mvp-post-trend-down
+daveockop.com##div[id^="footballco-video-player"]
 
 ! demonoid.ooo
 @@||demonoid.ooo/advertiser.js
@@ -463,7 +467,6 @@ bleacherreport.com###social-promo-flyin
 ||coin-hive.com^$third-party
 dailystar.co.uk,express.co.uk##.BrightcoveExperience
 d-h.st###downloadfile2
-daveockop.com##.mvp-post-trend-down
 dinside.no##.native-advertisement
 dn.se###pwOverlay
 ekstrabladet.dk##div[style*="z-index: 99799;"]
