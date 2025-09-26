@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202508061140
+! Version: 202509270045
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -214,6 +214,9 @@ rarbg.to,rarbg.com##tbody td[style="height:38px"]
 ! sbnation.com
 sbnation.com###social-promo
 sbnation.com##.m-share_selection_contextual
+
+! si.com - Hide cookie dialog/overlay. Is persistent on every page view when si.com articles are opened in a frame from fotmob.com.
+si.com###onetrust-consent-sdk
 
 ! soccerstats.com
 soccerstats.com##[href="members.asp"] > table
