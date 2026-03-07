@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202509270045
+! Version: 202603070508
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -398,6 +398,7 @@ villatalk.com###vt_adb_boxes
 ||www.youtube.com/live_chat?v=tF82pc2ZlRI
 ||www.youtube.com/live_chat?v=WgE8UmVJjoI
 ||www.youtube.com/live_chat?v=ZS9KXyH7Qjc
+||st.chatango.com/h5/gz/r0129260622/id.html$subdocument
 ||st.chatango.com/h5/gz/r0217251652/id.html$subdocument
 ||st.chatango.com/h5/gz/r0226250629/id.html$subdocument
 ||st.chatango.com/h5/gz/r0227250912/id.html$subdocument
