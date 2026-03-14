@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202603141817
+! Version: 202603141822
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -47,11 +47,6 @@ dagbladet.no,kjendis.no,pressfire.no##.mobile-only.slide-in-banner
 daveockop.com##.mvp-post-trend-down
 daveockop.com##div[id^="footballco-video-player"]
 
-! demonoid.ooo
-@@||demonoid.ooo/advertiser.js
-||chatango.com^$domain=demonoid.ooo
-demonoid.ooo###bnr3
-
 ! dailymail.co.uk
 ||i.mol.im/i/furniture/160108_
 dailymail.co.uk###dms-txt
@@ -84,10 +79,6 @@ eztv.ch,eztv.it,eztv-proxy.net##[href*="http://imads.integral-marketing.com/"]
 ||eztv.ch/js/jsc.js
 ||eztv.ch/cdn-cgi^
 ||ajax.cloudflare.com/cdn-cgi^$domain=eztv.ch|eztv.it
-
-! generalfil.es
-generalfil.es###banner-fileinfo-middle
-generalfil.es###search-banner-top
 
 ! givemesport.com
 ||video.givemesport.com^
@@ -285,10 +276,6 @@ twitter.com,x.com##.is-promoted
 
 ! twitch.tv
 twitch.tv###twilight-sticky-footer-root
-
-! younow.com
-younow.com###modalWindow
-younow.com##.modal-backdrop
 
 ! vg.no, vgtv.no, e24.no, minmote.no -  PS. Third-party cookies must be allowed to play videos embedded in articles (does not apply to pages on vgtv.no domain).
 vg.no,e24.no##.ad
