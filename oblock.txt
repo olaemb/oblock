@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202603141822
+! Version: 202603141824
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -150,12 +150,6 @@ mirror.co.uk,liverpoolecho.co.uk,liverpool.com##.comment-prompt
 ! Block and hide annoying autoplay videos
 ||brightcove.com^$domain=liverpoolecho.co.uk|mirror.co.uk|liverpool.com
 mirror.co.uk,liverpoolecho.co.uk,liverpool.com##.mod-video
-
-! meetv.no
-||meetv.no/static/images/tviller_banner.png
-meetv.no###sms_banner_1
-meetv.no###sms_banner_2
-meetv.no##.sms-banner
 
 ! musicpleer.audio
 musicpleer.audio###supp-ad1
