@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: oblock
 ! Homepage: https://oblock.ignorelist.com/
-! Version: 202603141824
+! Version: 202603141828
 
 ! 101greatgoals.com
 ||vds.rightster.com^$domain=101greatgoals.com|empireofthekop.com
@@ -474,7 +474,6 @@ torrentfreak.com##.widget_text
 ! Social media like buttons and similar crap on third-party sites
 ||apis.google.com/se/0/_/+1/$third-party
 ||facebook.com/*plugins/like$third-party
-||platform.twitter.com/widgets/tweet_button$third-party
 
 ! Whitelisted domains.
 ! Whitelisted to prevent breakage of some feature. Does not seem to work in uBO.
